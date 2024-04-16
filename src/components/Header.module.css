@@ -1,0 +1,33 @@
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  header img {
+    object-fit: contain;
+    margin-bottom: 2rem;
+    width: 30rem;
+    height: 10rem;
+  }
+  
+  header h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.4em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #1f19d4;
+    font-family: 'Pacifico', cursive;
+    margin: 0;
+  }
+  
+  header p {
+    text-align: center;
+    color: #a39191;
+    margin: 0;
+  }
+  
